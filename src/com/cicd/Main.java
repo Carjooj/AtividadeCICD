@@ -18,6 +18,8 @@ public class Main {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		
+		// Comentário de mudança no código
+		
 		
 		System.out.println("Digite um número");
 		Double n1 = scan.nextDouble();
@@ -28,7 +30,11 @@ public class Main {
 		
 		scan.close();
 		
+		System.out.println("Os valores inseridos foram " + n1 + " e " + n2);
+		
 		System.out.println(n1 + " X " + n2 + " = " + Main.multi(n1, n2));
+		
+		
 		
 		
 	}
