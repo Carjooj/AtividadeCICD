@@ -18,15 +18,16 @@ public class Main {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		
-		// Comentário de mudança no código
+		// Comentï¿½rio de mudanï¿½a no cï¿½digo
 		
-		//Mudança do coleguinha //
+		//Mudanï¿½a do coleguinha //
 		System.out.println("Colab: Jackeline esteve aqui");
-		
-		System.out.println("Digite um número");
+		System.out.println("Colab: Pela segunda vez, Jackeline esteve aqui");
+
+		System.out.println("Digite um nï¿½mero");
 		Double n1 = scan.nextDouble();
 		
-		System.out.println("Digite outro número");
+		System.out.println("Digite outro nï¿½mero");
 		
 		Double n2 = scan.nextDouble();
 		
